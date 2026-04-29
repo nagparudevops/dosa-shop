@@ -14,3 +14,9 @@
  * Dosa batter
  * 2 eggs
  * oil and karam
+
+ ## Paneer dosa
+  * Dosa batter
+  * panner
+  * mysore masala
+  * Tomato and keera
