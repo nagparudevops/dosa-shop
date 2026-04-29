@@ -15,7 +15,7 @@
  * 2 eggs
  * oil and karam
 
-<<<<<<< HEAD
+
  ## Paneer dosa
   * Dosa batter
   * panner
@@ -23,10 +23,6 @@
   * Tomato and keera
   * butter and oil
   * cheese
-=======
- ## paneer dosa
-  * dosa batter
-  * butter and cheese
-  * oil
-  * carroot and beetroot
->>>>>>> 04f6861 (carroot and beetroot)
+  *ghee 
+
+ 
