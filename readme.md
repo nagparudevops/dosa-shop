@@ -14,3 +14,9 @@
  * Dosa batter
  * 2 eggs
  * oil and karam
+
+ ## paneer dosa
+  * dosa batter
+  * butter and cheese
+  * oil
+  * carroot and beetroot
